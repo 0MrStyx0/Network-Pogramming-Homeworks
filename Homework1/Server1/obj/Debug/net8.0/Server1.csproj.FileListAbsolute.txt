@@ -1,0 +1,29 @@
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\bin\Debug\net8.0\Server1.exe
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\bin\Debug\net8.0\Server1.deps.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\bin\Debug\net8.0\Server1.runtimeconfig.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\bin\Debug\net8.0\Server1.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\bin\Debug\net8.0\Server1.pdb
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\Server1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\Server1.AssemblyInfoInputs.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\Server1.AssemblyInfo.cs
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\Server1.csproj.CoreCompileInputs.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\Server1.sourcelink.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\Server1.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\refint\Server1.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\Server1.pdb
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\Server1.genruntimeconfig.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server1\obj\Debug\net8.0\ref\Server1.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\bin\Debug\net8.0\Server1.exe
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\bin\Debug\net8.0\Server1.deps.json
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\bin\Debug\net8.0\Server1.runtimeconfig.json
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\bin\Debug\net8.0\Server1.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\bin\Debug\net8.0\Server1.pdb
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\Server1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\Server1.AssemblyInfoInputs.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\Server1.AssemblyInfo.cs
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\Server1.csproj.CoreCompileInputs.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\Server1.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\refint\Server1.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\Server1.pdb
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\Server1.genruntimeconfig.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server1\obj\Debug\net8.0\ref\Server1.dll

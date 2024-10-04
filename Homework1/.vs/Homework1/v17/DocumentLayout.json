@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dovla_nd00\\Desktop\\Homework1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0440577-DEE9-4138-92FA-362905995654}|Server3\\Server3.csproj|c:\\users\\dovla_nd00\\desktop\\homework1\\server3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0440577-DEE9-4138-92FA-362905995654}|Server3\\Server3.csproj|solutionrelative:server3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD997648-2790-4594-A24C-D99B041A41D8}|Client3\\Client3.csproj|c:\\users\\dovla_nd00\\desktop\\homework1\\client3\\client3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD997648-2790-4594-A24C-D99B041A41D8}|Client3\\Client3.csproj|solutionrelative:client3\\client3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD997648-2790-4594-A24C-D99B041A41D8}|Client3\\Client3.csproj|c:\\users\\dovla_nd00\\desktop\\homework1\\client3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD997648-2790-4594-A24C-D99B041A41D8}|Client3\\Client3.csproj|solutionrelative:client3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\Desktop\\Homework1\\Server3\\Program.cs",
+              "RelativeDocumentMoniker": "Server3\\Program.cs",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\Desktop\\Homework1\\Server3\\Program.cs",
+              "RelativeToolTip": "Server3\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:58:20.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client3ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\Desktop\\Homework1\\Client3\\Client3ViewModel.cs",
+              "RelativeDocumentMoniker": "Client3\\Client3ViewModel.cs",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\Desktop\\Homework1\\Client3\\Client3ViewModel.cs",
+              "RelativeToolTip": "Client3\\Client3ViewModel.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAqwMYAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:37:56.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\Desktop\\Homework1\\Client3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\Desktop\\Homework1\\Client3\\MainWindow.xaml",
+              "RelativeToolTip": "Client3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T14:58:42.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\bin\Debug\net8.0\Server3.exe
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\bin\Debug\net8.0\Server3.deps.json
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\bin\Debug\net8.0\Server3.runtimeconfig.json
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\bin\Debug\net8.0\Server3.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\bin\Debug\net8.0\Server3.pdb
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\Server3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\Server3.AssemblyInfoInputs.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\Server3.AssemblyInfo.cs
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\Server3.csproj.CoreCompileInputs.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\Server3.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\refint\Server3.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\Server3.pdb
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\Server3.genruntimeconfig.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server3\obj\Debug\net8.0\ref\Server3.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\bin\Debug\net8.0\Server3.exe
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\bin\Debug\net8.0\Server3.deps.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\bin\Debug\net8.0\Server3.runtimeconfig.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\bin\Debug\net8.0\Server3.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\bin\Debug\net8.0\Server3.pdb
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\Server3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\Server3.AssemblyInfoInputs.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\Server3.AssemblyInfo.cs
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\Server3.csproj.CoreCompileInputs.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\Server3.sourcelink.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\Server3.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\refint\Server3.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\Server3.pdb
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\Server3.genruntimeconfig.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Server3\obj\Debug\net8.0\ref\Server3.dll

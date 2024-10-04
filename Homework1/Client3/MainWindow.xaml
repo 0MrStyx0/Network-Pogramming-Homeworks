@@ -1,0 +1,43 @@
+﻿<Window x:Class="Client3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="460">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="10*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <DockPanel Grid.Row="0">
+                <TextBox Width="120" Margin="5" Text="{Binding IP}"></TextBox>
+                <Button Margin="5" Command="{Binding Connect}">Connect</Button>
+                <RadioButton IsChecked="{Binding IsUser}" Command="{Binding UserMod}" Width="103" FontSize="15" VerticalAlignment="Center" Margin="30,0,0,0">User</RadioButton>
+                <RadioButton IsChecked="{Binding IsComputer}" Command="{Binding AiMod}" FontSize="15" VerticalAlignment="Center">Computer</RadioButton>
+            </DockPanel>
+
+            <ListBox Grid.Row="1" Margin="5" ItemsSource="{Binding MessageList}"></ListBox>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBox Grid.Column="0" Margin="5" Text="{Binding Text}"></TextBox>
+            <Button Grid.Column="1" Margin="5" Content="{Binding ButtonText}" Command="{Binding SendMessage}"></Button>
+        </Grid>
+    </Grid>
+</Window>

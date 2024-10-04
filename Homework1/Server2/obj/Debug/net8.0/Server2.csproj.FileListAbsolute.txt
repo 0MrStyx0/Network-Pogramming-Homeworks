@@ -1,0 +1,14 @@
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\bin\Debug\net8.0\Server2.exe
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\bin\Debug\net8.0\Server2.deps.json
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\bin\Debug\net8.0\Server2.runtimeconfig.json
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\bin\Debug\net8.0\Server2.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\bin\Debug\net8.0\Server2.pdb
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\Server2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\Server2.AssemblyInfoInputs.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\Server2.AssemblyInfo.cs
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\Server2.csproj.CoreCompileInputs.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\Server2.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\refint\Server2.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\Server2.pdb
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\Server2.genruntimeconfig.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Server2\obj\Debug\net8.0\ref\Server2.dll

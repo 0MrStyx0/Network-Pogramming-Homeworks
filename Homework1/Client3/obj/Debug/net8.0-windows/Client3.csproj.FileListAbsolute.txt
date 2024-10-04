@@ -1,0 +1,77 @@
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\Client3.exe
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\Client3.deps.json
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\Client3.runtimeconfig.json
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\Client3.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\Client3.pdb
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3_MarkupCompile.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3_MarkupCompile.lref
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.g.resources
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.AssemblyInfoInputs.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.AssemblyInfo.cs
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.csproj.CoreCompileInputs.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\refint\Client3.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.pdb
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.genruntimeconfig.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\ref\Client3.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.csproj.AssemblyReference.cache
+C:\Users\Dovla_nd00\Desktop\Homework1\Client3\obj\Debug\net8.0-windows\Client3.csproj.Up2Date
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\Client3.exe
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\Client3.deps.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\Client3.runtimeconfig.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\Client3.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\Client3.pdb
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.csproj.AssemblyReference.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3_MarkupCompile.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3_MarkupCompile.lref
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.g.resources
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.AssemblyInfoInputs.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.AssemblyInfo.cs
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.csproj.CoreCompileInputs.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.sourcelink.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.csproj.CopyComplete
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\refint\Client3.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.pdb
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\Client3.genruntimeconfig.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\Homework1\Client3\obj\Debug\net8.0-windows\ref\Client3.dll
