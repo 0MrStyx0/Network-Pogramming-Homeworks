@@ -1,0 +1,115 @@
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.cache
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.lref
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.g.resources
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.Up2Date
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\Dovla_nd00\Network Programming\ExchangeRateApp\Client\obj\Debug\net8.0-windows\ref\Client.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.lref
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.g.resources
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.sourcelink.json
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.CopyComplete
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\PK\Network Programming\Network-Pogramming-Homeworks\ExchangeRateApp\Client\obj\Debug\net8.0-windows\ref\Client.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.cache
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.lref
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.g.resources
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.csproj.Up2Date
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\Dovla_nd00\Desktop\ExchangeRateApp\Client\obj\Debug\net8.0-windows\ref\Client.dll
