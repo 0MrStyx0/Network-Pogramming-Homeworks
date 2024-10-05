@@ -143,7 +143,6 @@ namespace Client
                 {
                     throw new Exception("Сервер Переполнен!!!");
                 }
-
                 MessageBox.Show("Клиент подключился к серверу");
             }
             catch (Exception ex)

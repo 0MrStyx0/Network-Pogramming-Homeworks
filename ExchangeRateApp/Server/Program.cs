@@ -19,7 +19,7 @@ List<Rate> Rates = new List<Rate>()
 };
 
 List<TcpClient> Clients = new List<TcpClient>();
- 
+
 
 while (true)
 {
