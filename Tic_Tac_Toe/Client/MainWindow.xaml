@@ -1,0 +1,46 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="519">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Button Grid.Row="0" Grid.Column="0" Command="{Binding SetSymb}" CommandParameter="1" Content="{Binding ButtonSymb1}"></Button>
+            <Button Grid.Row="0" Grid.Column="1" Command="{Binding SetSymb}" CommandParameter="2" Content="{Binding ButtonSymb2}"></Button>
+            <Button Grid.Row="0" Grid.Column="2" Command="{Binding SetSymb}" CommandParameter="3" Content="{Binding ButtonSymb3}"></Button>
+            <Button Grid.Row="1" Grid.Column="0" Command="{Binding SetSymb}" CommandParameter="4" Content="{Binding ButtonSymb4}"></Button>
+            <Button Grid.Row="1" Grid.Column="1" Command="{Binding SetSymb}" CommandParameter="5" Content="{Binding ButtonSymb5}"></Button>
+            <Button Grid.Row="1" Grid.Column="2" Command="{Binding SetSymb}" CommandParameter="6" Content="{Binding ButtonSymb6}"></Button>
+            <Button Grid.Row="2" Grid.Column="0" Command="{Binding SetSymb}" CommandParameter="7" Content="{Binding ButtonSymb7}"></Button>
+            <Button Grid.Row="2" Grid.Column="1" Command="{Binding SetSymb}" CommandParameter="8" Content="{Binding ButtonSymb8}"></Button>
+            <Button Grid.Row="2" Grid.Column="2" Command="{Binding SetSymb}" CommandParameter="9" Content="{Binding ButtonSymb9}"></Button>
+            
+        </Grid>
+
+            <DockPanel Grid.Row="1">
+            <Label Width="224">YOU:</Label>
+            <Label FontSize="20" Content="{Binding CurrentPlayer}" Width="107"></Label>
+            <Button Command="{Binding Connect}">PLAY</Button>
+        </DockPanel>
+    </Grid>
+</Window>
