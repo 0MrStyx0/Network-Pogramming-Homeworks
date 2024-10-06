@@ -179,6 +179,21 @@ namespace Client
                         else if (position == "8") ButtonSymb8 = symb;
                         else if (position == "9") ButtonSymb9 = symb;
 
+                        bool isWin = Convert.ToBoolean(reader.ReadLine());
+                        if(isWin == true)
+                        {
+                            MessageBox.Show($"{symb} ПОБЕДИЛ!!!");
+                            ButtonSymb1 = string.Empty;
+                            ButtonSymb2 = string.Empty;
+                            ButtonSymb3 = string.Empty;
+                            ButtonSymb4 = string.Empty;
+                            ButtonSymb5 = string.Empty;
+                            ButtonSymb6 = string.Empty;
+                            ButtonSymb7 = string.Empty;
+                            ButtonSymb8 = string.Empty;
+                            ButtonSymb9 = string.Empty;
+                        }
+
                         isButtonPressed = false;
                     }
                 }

@@ -35,7 +35,7 @@ async Task Handle(TcpClient client1, StreamWriter writer1, string symbX, TcpClie
         while (true)
         {
             StreamReader reader1 = new StreamReader(client1.GetStream());
-            string positionX = await reader1.ReadLineAsync();
+            string positionX = reader1.ReadLine();
             if(positionX == "1") board[0][0] = symbX;
             else if(positionX=="2") board[0][1] = symbX;
             else if(positionX=="3") board[0][2] = symbX;
@@ -60,9 +60,10 @@ async Task Handle(TcpClient client1, StreamWriter writer1, string symbX, TcpClie
             }
             Console.WriteLine("\n");
 
+            CheckWin(board, isOWin, writer2);
 
             StreamReader reader2 = new StreamReader(client2.GetStream());
-            string positionO = await reader2.ReadLineAsync();
+            string positionO = reader2.ReadLine();
             if (positionO == "1") board[0][0] = symbO;
             else if (positionO == "2") board[0][1] = symbO;
             else if (positionO == "3") board[0][2] = symbO;
@@ -87,20 +88,19 @@ async Task Handle(TcpClient client1, StreamWriter writer1, string symbX, TcpClie
             }
             Console.WriteLine("\n");
 
-            //CheckWin(board, isXWin, isOWin, writer1, writer2);
+            CheckWin(board, isXWin, writer1);
         }
     });
 #pragma warning restore CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
 }
 
-void CheckWin(string[][] board, bool isXWin, bool isOWin, StreamWriter writer1, StreamWriter writer2)
+void CheckWin(string[][] board, bool isWin, StreamWriter writer)
 {
     for(int i = 0;i < board.Length; i++)
     {
         if (board[i][0] != null && board[i][0] == board[i][1] && board[i][1] == board[i][2])
         {
-            if(board[i][0] == "X") isXWin = true;
-            else if (board[i][0] == "O") isOWin = true;
+            isWin = true;
         }
     }
 
@@ -108,31 +108,18 @@ void CheckWin(string[][] board, bool isXWin, bool isOWin, StreamWriter writer1, 
     {
         if (board[0][i]!=null &&board[0][i] == board[1][i] && board[1][i] == board[2][i])
         {
-            if (board[0][i] == "X") isXWin = true;
-            else if (board[0][i] == "O") isOWin = true;
+            isWin = true;
         }
     }
 
     if (board[0][0]!=null &&board[0][0] == board[1][1] && board[1][1] == board[2][2]) 
     {
-        if (board[0][0] == "X") isXWin = true;
-        else if (board[0][0] == "O") isOWin = true;
+        isWin = true;
     }
     if (board[0][2] != null && board[0][2] == board[1][1] && board[1][1] == board[2][0])
     {
-        if (board[0][2] == "X") isXWin = true;
-        else if (board[0][2] == "O") isOWin = true;
+        isWin = true;
     }
 
-    if(isXWin == true || isOWin == true)
-    {
-        writer1.WriteLine(isXWin);
-        writer2.WriteLine(isOWin);
-    }
-    else
-    {
-        writer1.WriteLine(" ");
-        writer2.WriteLine(" ");
-    }
-
+    writer.WriteLine(isWin);
 }
